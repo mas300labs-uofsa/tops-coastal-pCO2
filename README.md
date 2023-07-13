@@ -7,7 +7,6 @@ Le, C., Y. Gao, W-J. Cai, J. Lehrter, Y. Bai, and Z-P. Jiang. [Estimating summer
 The article describes the use of locally calibrated satellite products to improve the satellite estimation of the partial pressure of carbon dioxide in coastal waters.
 
 > The semi-mechanistic pCO2 retrieval model may be applied in other river-dominated coastal waters with acceptable accuracy of empirical parameters.
-> local tuning or overall improvement of standard satellite algorithms for coastal waters can significantly improve the accuracy of satellite pCO2 estimation in continental shelf waters. 
 
 ## Open-Source Science
 
