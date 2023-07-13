@@ -14,7 +14,7 @@ From NASA'S Open-Source Science Initiative (OSSI):
 > Open-source science requires a culture shift to a more inclusive, transparent, and collaborative scientific process, which will increase the pace and quality of scientific progress.
 
 Open Science 101, also called **OpenCore**, teaches the fundamentals of open-source science.  Beyond the basics, it is often difficult
-to find the time or motivation to study something not *specifically* and *immediately* applicable to our current workloads.  Enter ***ScienceCore***: 
+to find the time or motivation to study something not specifically applicable to our current workloads.  Enter ***ScienceCore***: 
 > ScienceCore is a curriculum of discipline-specific materials that showcase open-science workflows.
 
 So, *specifically*, we will find, download, and visualize data from
@@ -23,9 +23,6 @@ So, *specifically*, we will find, download, and visualize data from
 - U.S. Geological Survey 
 - Moderate Resolution Imaging Spectroradiometer ([MODIS](https://modis.gsfc.nasa.gov/about), [Aqua](https://aqua.nasa.gov), [NASA ocean color products](https://oceancolor.gsfc.nasa.gov)
 - Visible and Infrared Imager/Radiometer Suite ([VIIRS](https://www.earthdata.nasa.gov/learn/find-data/near-real-time/viirs))
-
-Our aim is to make it possible for you to start doing this *immediately*.  If you are having difficulties following along, please let us know so we
-can improve these materials.
 
 ## Scope
 
