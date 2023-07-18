@@ -14,10 +14,3 @@ To follow the estimation of pCO2 in coastal waters, we will need to find, downlo
 - Moderate Resolution Imaging Spectroradiometer ([MODIS](https://modis.gsfc.nasa.gov/about), [Aqua](https://aqua.nasa.gov), [NASA ocean color products](https://oceancolor.gsfc.nasa.gov)
 - Visible and Infrared Imager/Radiometer Suite ([VIIRS](https://www.earthdata.nasa.gov/learn/find-data/near-real-time/viirs))
 
-## NASA's Transform to Open Science
-
-This effort is funded by NASA's [Transform to Open Science](https://nasa.github.io/Transform-to-Open-Science) Training (TOPST) program under award 80NSSC23K0863 to North Carolina State University with University of South Alabama.
-
-For additional project details, please see **[ScienceCore for Marine Sciences.](https://github.com/TOPS-Marine-ScienceCore/.github/blob/main/README.md)**
-
-
